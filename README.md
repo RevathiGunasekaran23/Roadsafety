@@ -30,9 +30,13 @@ and fatal. On the other hand, the majority number of accidents took place in the
 compared to the rural regions. We then used packed bubbles to have a better visualization that
 can easily depict the ratios.
 
-<img width="1426" alt="Screenshot 2023-06-17 at 1 01 03 PM" src="https://github.com/RevathiGunasekaran23/Roadsafety/assets/121855500/ac54fddd-c25c-48c6-9d84-e43966abdb5f">
+<p>&nbsp  </p>
 
 
+
+<img width="1200" alt="Screenshot 2023-06-17 at 1 01 03 PM" src="https://github.com/RevathiGunasekaran23/Roadsafety/assets/121855500/ac54fddd-c25c-48c6-9d84-e43966abdb5f">
+
+<p>&nbsp  </p>
 
 The second visualization is focused on knowing how the number of accidents has ranged
 in terms of severity on a daily basis of a week in different quarters. We found that the number of
@@ -41,15 +45,17 @@ week and plummeted by the end of the week. On the whole, as we mentioned above, 
 has the lowest number of accidents on a quarterly basis. We used line graphs to visualize this
 case.
 
-<img width="1427" alt="Screenshot 2023-06-17 at 1 01 45 PM" src="https://github.com/RevathiGunasekaran23/Roadsafety/assets/121855500/98401b0b-f5c3-40de-b20f-44db47bcf399">
+<p>&nbsp  </p>
+<img width="1200" alt="Screenshot 2023-06-17 at 1 01 45 PM" src="https://github.com/RevathiGunasekaran23/Roadsafety/assets/121855500/98401b0b-f5c3-40de-b20f-44db47bcf399">
 
+<p>&nbsp  </p>
 The third visualization is based on scaling the number of accidents based on two different
 variables. We wanted to see how road surface conditions and road type have contributed to the
 number of accidents. We used a tree map to visualize this case and found that major causes of
 accidents in terms of road type were - single carriageway, dual carriageway and roundabout and
 in terms of road surface conditions were - dry, wet/damp and frost/ice road surfaces.
-
-<img width="1434" alt="Screenshot 2023-06-17 at 1 02 23 PM" src="https://github.com/RevathiGunasekaran23/Roadsafety/assets/121855500/708f3bce-ec09-4973-b42f-f9596f54fee0">
+<p>&nbsp  </p>
+<img width="1200" alt="Screenshot 2023-06-17 at 1 02 23 PM" src="https://github.com/RevathiGunasekaran23/Roadsafety/assets/121855500/708f3bce-ec09-4973-b42f-f9596f54fee0">
 
 
 
