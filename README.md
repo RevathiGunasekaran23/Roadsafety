@@ -29,6 +29,9 @@ accident severity, most accidents were of slight level of severity on the scale 
 and fatal. On the other hand, the majority number of accidents took place in the urban regions
 compared to the rural regions. We then used packed bubbles to have a better visualization that
 can easily depict the ratios.
+<p>&nbsp  </p>
+<img width="1200" alt="Screenshot 2023-06-17 at 1 14 24 PM" src="https://github.com/RevathiGunasekaran23/Roadsafety/assets/121855500/31faddbe-f5bf-4920-86d4-f53c8a91ce3b">
+
 
 <p>&nbsp  </p>
 
